@@ -1,0 +1,4 @@
+
+This code is distributed under LGPL.
+
+You can use it in closed-source projects.
